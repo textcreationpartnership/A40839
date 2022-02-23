@@ -1,0 +1,566 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The famous and renowned history of the memorable, but unhappy hunting on Chevy-Chase, by the river Tweed in Scotland together with the great and mortal battles fought there, between the Lord Piercy, Earl of Northumberland, and his fifteen hundred English archers, and Earl Dowglas, with twenty hundred Scottish spears,in which both, with most of their men, were slain.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40839</idno>
+            <idno type="STC">Wing F359A</idno>
+            <idno type="STC">ESTC R222646</idno>
+            <idno type="EEBO-CITATION">99833795</idno>
+            <idno type="PROQUEST">99833795</idno>
+            <idno type="VID">38273</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40839)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38273)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2206:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The famous and renowned history of the memorable, but unhappy hunting on Chevy-Chase, by the river Tweed in Scotland together with the great and mortal battles fought there, between the Lord Piercy, Earl of Northumberland, and his fifteen hundred English archers, and Earl Dowglas, with twenty hundred Scottish spears,in which both, with most of their men, were slain.</title>
+               </titleStmt>
+               <extent>[24] p. : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>printed by and for C. Brown, and sold by the booksellers of Pye corner and London-bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[c.1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"An unhappy, but memorable song of the hunting on Chevy-Chase, between Earl Piercy of England, and Earl Dowglas of Scotland. To the Tune of Flying Fame, &amp;c." has caption title on B3v.</note>
+                  <note>In verse from B3v to C3v.</note>
+                  <note>Signatures: A-C⁴.</note>
+                  <note>With final advertisement leaf.</note>
+                  <note>Reproduction of the original in the William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Percy, Henry, --  Lord, 1364-1403 --  Early works to 1800.</term>
+               <term>Douglas, James Douglas, --  Earl of, ca. 1358-1388 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38273:1"/>
+            <p>The Famous and Renowned HISTORY Of the Memorable, but Unhappy Hunting on <hi>CHEVY-CHASE,</hi> BY The River <hi>TWEED</hi> in <hi>SCOTLAND;</hi> Together with the great and mortal Battles fought there, be<g ref="char:EOLhyphen"/>tween the Lord <hi>Piercy,</hi> Earl of <hi>Northumberland,</hi> and his fifteen Hundred Engliſh Archers, and Earl <hi>Dowglas,</hi> with twenty Hundred Scottiſh Spears, in which both, with moſt of their Men, were Slain.</p>
+            <figure>
+               <figDesc>woodcut divded into three parts: men and dogs chasing a buck, two people sitting at a table, men marching before a castle</figDesc>
+            </figure>
+            <p>
+               <hi>London:</hi> Printed by and for C. <hi>Brown,</hi> and ſold by the Bookſellers of <hi>Pye corner</hi> and <hi>London-bridge.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="history">
+            <pb facs="tcp:38273:2"/>
+            <pb facs="tcp:38273:2"/>
+            <head>The Hiſtory of the Hunting on <hi>Chevy-Chaſe.</hi>
+            </head>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>Chap. I.</hi> How the <hi>Pierces</hi> had that Name, and came to be Earls of <hi>Northumberland;</hi> how this Lord <hi>Piercy,</hi> the third Earl of the Deſcent in King <hi>Henry</hi> the Second's Reign, made a Vow to hunt three Days in <hi>Chevy-Chaſe,</hi> and with his Archers paſſed the <hi>Tweed.</hi>
+               </head>
+               <p>THe noble Family of the <hi>Pierces,</hi> Earl of <hi>Northumberland,</hi> have had a high Eſteem amongſt the Engliſh Nobility, and for their Valour and noble Exploits famed not on<g ref="char:EOLhyphen"/>ly in our Hiſtory, but throughout the World: I might give you a large account of the Deſcent of that noble Earl, who is to be a chief part of the Subject of the following Story; however, by the way, I muſt tell you, that Hiſtory records him for the fortunate Valour of a couragious Knight, who kill'd the King of Scots by running his Spear into his Eye as he was beſieging <hi>Roxborough</hi> Caſtle, and his other Name was chang'd, and that of <hi>Piercy</hi> given together with the Earldom of <hi>Northumberland,</hi> and to the firſt Earl. This Earl, of whom I now treat, was Grand-ſon and Heir both of his Virtues and Valour. But to come nearer to the in<g ref="char:EOLhyphen"/>tended Purpoſe: The noble Earl of <hi>Northumberland</hi> taking his Progreſs, gallantly attended with fifteen hundred ſtout Archers, paſſed on to the Marches of <hi>Scotland,</hi> of which by Commiſſion from the King, he was to have been Lord-Lieutenant, and wiſh<g ref="char:EOLhyphen"/>ing for ſome Veniſon at a Dinner, he was informed that in a cu<g ref="char:EOLhyphen"/>rious Forreſt beyond the <hi>Tweed,</hi> called <hi>Chevy-Chaſe,</hi> belonging to Earl <hi>Dowglas,</hi> a Scotch Nobleman, there was ſuch Store of it that the like was in no part of the Kingdom; and Proviſion being ſcarce on the Engliſh ſide on thoſe Borders, this Report made his Men ſo forward, that they deſired they might go out in Par<g ref="char:EOLhyphen"/>ties, and bring as much as they could away undiſcovered: But he deſpiſing ſuch a way that look'd too much like Deer-ſtealing, told them, if their Courage was ſufficient to venture for it fairly,
+<pb facs="tcp:38273:3"/>he would venture with them; and ſo hunting it down as a fair Game, it ſhould be brought off with Honour as a lawful Prize taken in an Enemy's Country: For then King <hi>Henry</hi> the Second of <hi>England,</hi> in whoſe Reign it hapned, there was a Rupture with the Scots, though there had been for a while an Interval or Ceſſation of Arms.</p>
+               <p>To this Motion of the Noble Earl's they gave their unani<g ref="char:EOLhyphen"/>mous Conſent by throwing up their Caps, with a loud Shout: and ſo the Earl made a vow. That for three Days he would take his Pleaſure in hunting on <hi>Chevy-Chaſe;</hi> and thereupon ſending for his Dogs and Toils, early on a Midſummer Morning they paſſed the <hi>Tweed,</hi> and were by a Guide directed to the Place, which was about ſix Miles nearer <hi>Edenborough:</hi> So to the Game they went; The Dogs were put in to rouſe the Harts, the Horns founded, and the Huntſmens Shouts, with the Dogs Cries made a pleaſant Noiſe; yet the Villagers thinking it had been the Sound of War on ſome ſudden Invaſion, were ſo terrified, that many of them fled with what they could carry away, for fear of being plunder'd; and with their groundleſs Fears alarm'd the Country many Miles, putting all into a Conſternation and Confuſion.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>
+                  <hi>Chap. II.</hi> How they killed a great many Deer; and at Supper<g ref="char:EOLhyphen"/>time Earl <hi>Dowglas</hi> ſent a threatning Meſſage to command them to depart; and the ſtout Anſwer Earl <hi>Piercy</hi> returned: Alſo the Preparations for the Fight made on both ſides.</head>
+               <p>THe Harts and Roes, though as ſwift in their running as the Wind, could not, however outſtrip the Engliſh Arrows, our Archers laying ſome Scores of them on the Ground, ſo that they had killed ſuch ſtore of Veniſon, that they began to be in doubt how they ſhould be able to carry it away. This happen<g ref="char:EOLhyphen"/>ed on the firſt Day; yet having refreſhed themſelves with the fat Haunches and Sides in the Evening, making Fires, and roaſt<g ref="char:EOLhyphen"/>ing it in the Forreſt, there being ſuch a number of them, they ſound their Store much leſſened.</p>
+               <pb facs="tcp:38273:3"/>
+               <p>But whilſt the Earl was at Supper with divers Knights, Eſ<g ref="char:EOLhyphen"/>quires and Gentlemen, on a Table of Boards laid on Supporters of Turf, and ſitting on Seats raiſed on Turf-banks, ſuch Accom<g ref="char:EOLhyphen"/>modation as the rural Place would afford, at the Cloſe of it, juſt as he was about to give Order to the Huntſmen to begin the Sport the next Morning with the Sun-riſing, in came a Meſſenger in a ſcarlet Livery, laced with Gold, and a Badge of Arms on a Plate of Silver, faſtned on his Breaſt: This ſpoke him to be ſent by ſome Perſon of Quality; whereupon the Earl commanding Silence, demanded from whom he came, or what his Buſineſs was. Upon which he thus began with a haughty Mein:</p>
+               <q rend="italic">
+                  <p>Sir, <hi>ſaid he,</hi> whoever you are I know not; but my Maſter, the noble, valiant and always victorious Earl <hi>Dowglas,</hi> chief Ranger to the King of <hi>Scotland,</hi> and to whom theſe Parks and Chaſes be<g ref="char:EOLhyphen"/>long, hearing you have boldly preſumed to enter them, and deſtroy his Deer without Leave or Conſent; by me tells you, That if you do not ſuddenly depart, your Lives ſhall pay for the Injury you have done, before to Morrow Noon.</p>
+               </q>
+               <p>This being denounc'd, he was about to depart, but the undaunt<g ref="char:EOLhyphen"/>ed Earl <hi>Piercy</hi> taking him by the Sleive, ſaid, <q rend="italic">It is but convenient you ſhould carry an Anſwer back to your Lord; And that is this, Tell him my Name is <hi>Piercy,</hi> a Name at which <hi>Scotland</hi> has trembled; and that I am of ſo true Engliſh Courage, that Threats are in vain to terrifie me. Tell him moreover, I have propoſed to take my Plea<g ref="char:EOLhyphen"/>ſure in theſe Forreſts and Chaſes for two Days longer; and if he be Valiant, as you ſay, let him hinder my Sport if he be ſo bold as to attempt it, at the Hazard of his Life.</q>
+               </p>
+               <p>Upon this, the Meſſenger departed with ſpeed to the Scotch Earl, who lay at <hi>Edenborough,</hi> and related what was given him in Charge by Earl <hi>Piercy;</hi> at which the Scotch Man ſtormed and fretted, walking up and down in a great Fury, muttering Revenge, and all manner of Puniſhments on thoſe he ſhould take Priſoners; he diligently enquired the Number of the Engliſh: But the Meſſenger could give him no certain Account, only gueſſed (for many of them were in diſtant Parts of the Wood, when he delivered what he had in Charge) there might be
+<pb facs="tcp:38273:4"/>about ten or twelve hundred Men; whereupon he ordered his Horſe and Armour, which was guilded with Gold, to be got ready againſt Morning-light; alſo all his Friends and Servants, together with as many as made up two thouſand Spear-men to be muſtered; without letting them know what Deſign he had in hand; however, they diſputed not to obey him, as having next the King the chief Command of the Kingdom.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>Chap. III.</hi> How the Earl <hi>Piercy</hi> begun the ſecond Day's Hunt<g ref="char:EOLhyphen"/>ing; but upon Notice of <hi>Dowglas</hi>'s Approach, he called in the Hunters, drew up his M<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, and made a famous Speech to encou<g ref="char:EOLhyphen"/>rage them, and received their unanimous Shouts in Concluſion.</head>
+               <p>THe noble Earl of <hi>Northumberland,</hi> though in an Enemy's Country far from any Succour, yet relying on his own, and his Mens Courage, who were the choiceſt Archers of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> was ſo far from being daunted, though he might reaſona<g ref="char:EOLhyphen"/>bly expect a greater Number againſt him, that he ordered the Tables a ſecond time to be ſpread, and Store of Wine went round, which they had brought with them in great Plenty. Healths went round to the King, the Earl, and to the Proſperity of their Sport the next Day; and then ſeting ſcouts, repoſed themſelves.</p>
+               <p>The Sun no ſooner gilded our Horizon with his ſaluting Rays of Light, and the early Lark mounting on high, turned her me<g ref="char:EOLhyphen"/>lodious notes, but the Sport was renew'd and the Woods, Forreſt, Plains and Hills reſounded with the pleaſing Noiſe of Hounds and Men; ſo that altogether they made a very curious Harmo<g ref="char:EOLhyphen"/>ny. This Morning they killed a very ſtately Hart, the largeſt that had been ſeen in the Kingdom; whereupon the Huntſmen run to call the Earl to the Quarry that he might be pleaſed at the ſight; which accordingly he was preſent at; proteſting he had never ſeen the like in his Life. Then remembring the Meſſage ſent him over Night, he turned to a Knight on his left Hand, ſaying, <q rend="italic">The time, <hi>Sir Knight,</hi> draws near, that if Earl <hi>Dowglas</hi> ke<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ps his Word, we ſhall have another kind of Sport to under take;
+<pb facs="tcp:38273:4"/>he promiſed this Morning to make us a Viſit: Therefore let it be your Care to keep our Men together, that they ſcatter not, lest ſome of them may be ſurpriz'd and oppreſſed by Odds of Number, for Man to Man, <hi>ſaid he,</hi> I fear th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m not against any Nation under Heaven: But if I thought he would not come, we would remove hence to the next Forrest, for thither, I perceive, most of the Deer, frighted from this Forrest, are fled.</q> He had no ſooner uttered theſe Words, but his Eſquire, <hi>Witherington</hi> by Name, came haſtily to him, ſay<g ref="char:EOLhyphen"/>ing, <q rend="italic">
+                     <hi>My Noble Lord,</hi> Cauſe the Dogs immediately to be called off, and muſter up your bold Archers; for from yonder Hill I ſaw Earl <hi>Dowglas</hi> coming directly towards you, though yet about two Miles di<g ref="char:EOLhyphen"/>ſtant, having a great Troop of Spear-men, which I cannot gueſs leſs than two Thouſand.</q>
+               </p>
+               <p>
+                  <q rend="italic">I thank thee heartily, <hi>replyed the Earl,</hi> for this News; and doubt not thy Courage, which I have ſeen tryed in ſo many Dangers.</q> At this the Eſquire bowing low, ſaid, <q rend="italic">My Lord, I doubt not ſo to behave my ſelf this Day, that living or dead, I ſhall be remembered to future Ages.</q>
+               </p>
+               <p>Immediately hereupon the Horns blew a Retreat, the Dogs were called off, the Toils taken up, and the valiant Archers muſtered about their noble Leader; who fired their Courage with the following Oration:</p>
+               <q rend="italic">
+                  <p>
+                     <hi>My renowned Country-Men, and Fellows in Arms, always Victori<g ref="char:EOLhyphen"/>ous in Battle, ſtill triumphing in the Spoils of your Enemies: It was with your Conſent we paſſed the</hi> Tweed <hi>for Sport and Recreati<g ref="char:EOLhyphen"/>on; but that is ſuddenly like to be diſturbed, and we have another Work to undertake; Earl</hi> Dowglas, <hi>who owns this Chaſe and For<g ref="char:EOLhyphen"/>rest, has ſent me a Challenge, and is now going to give us Battle, or ſhamefully to make us fly over the</hi> Tweed: <hi>Pluck up your Spirits then, and conſider you are Engliſh Men, that</hi> Piercy <hi>fights at the Head of you, who never, either in</hi> France <hi>or</hi> Scotland, <hi>feared the Face of any; be Couragious then, and for the Honour of our King, the Renown of our Country, living or dying with me, gain a laſting Fame and Memory, that ſhall not end, but with Time it ſelf, and Re<g ref="char:EOLhyphen"/>nown you to all Poſterity.</hi>
+                  </p>
+               </q>
+               <pb facs="tcp:38273:5"/>
+               <p>Having ſaid thus much, they all ſhouted ſo loud in token of Conſent and lively Courage, that the Hills and Dales ſent back the Ecchoes of their Voice, and immediately fell into Order, pruning their Arrows, and new-ſtringing their Bows made of truſty Yew.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>
+                  <hi>Chap. IV.</hi> How Earl <hi>Dowglas</hi> bravely mounted, and in gilded Armour, came down with his Men into <hi>Chevy Chaſe;</hi> how a ſingle Combat between the two Earls, to ſave their Mens Lives, was proffered, but hinared by <hi>Witherington.</hi>
+               </head>
+               <p>THe bold Engliſh Archers in number fifteen hundred, were no ſooner in Readineſs, but Earl <hi>Dowglas</hi> appeared on the Top of the Hill that deſcended into the Plain whereon Earl <hi>Piercy</hi> ſtood, mounted on a ſtately White Steed, and his gilded Armour reflecting the Sun-beams ſhewed very gloriouſly, and his Men immediately appeared in order behind him, with their glittering Spears, ſo that their number was computed juſt two thouſand.</p>
+               <p>Upon this Earl <hi>Piercy</hi> taking a Leading-ſtaff in his Hand, and a truſty Sword by his ſide, cauſed his Men to move forward by ſlow paces, whilſt he marched in the Front: By this time Earl <hi>Dowglas</hi> being come within forty Paces, ſternly demanded, <q rend="italic">Whoſe Men they were that durst ſo boldly preſume to hunt in his Forrest, and kill his Deer; and that whoever they were, ſince they had dar'd to do it, they must expect to be ſeverely puniſhed; commanding them to yield immediately as his Priſoners, if they expected Mercy from him.</q>
+               </p>
+               <p>Upon this the noble Engliſh Earl, enraged with a generous Fury and Diſdain, ordering his Men to halt, went nearcr, ſaying, <q rend="italic">Earl <hi>Dowglas,</hi> it matters not whoſe Men we are; but ſuch you will find us, that what we have done, we will juſtifie, and what Deer we have kill'd, we will carry away, or leave our own Bodies dead behind us, which ſhall cost very dear in the Blood of thoſe that dare oppoſe us.</q>
+               </p>
+               <p>This being ſpoken with an undaunted Reſolution, made <hi>Dow<g ref="char:EOLhyphen"/>glas</hi> grow a little calmer; <q rend="italic">O, <hi>ſaid he,</hi> I know thee, Lord <hi>Piercy;</hi>
+                     <pb facs="tcp:38273:5"/>now thou art a Peer, an Earl as well as I; therefore if thou art as Brave as Fame reports thee, what need we deſtroy our Men by in<g ref="char:EOLhyphen"/>gaging them in this Combate, the Quarrel being properly between you and me; let our Swords decide it in ſingle Combate?</q>
+               </p>
+               <p>This unexpected Offer overjoyed the Noble <hi>Piercy,</hi> and draw<g ref="char:EOLhyphen"/>ing his victorious Sword, bid Defiance to the Challenger, wiſh<g ref="char:EOLhyphen"/>ing thoſe accurſed, that hindred this Agreement. But it could not be, Fate had involved many more Lives in this Quarrel than the two Earls; for <hi>Witherington,</hi> a valiant Engliſh Squire, ſtanding by the Earl when this Combate was about to begin, elapt be<g ref="char:EOLhyphen"/>tween them with his Sword, and made a Stand, ſaying, <q rend="italic">My noble Lord, it ſhall never be told to <hi>Henry</hi> our King to ſhame us, that we let you fight, under whoſe Command we are, whilst we ſtood looking on: How ſhould we be reproached with Cowardice, if this were ſuffer<g ref="char:EOLhyphen"/>ed or known? With hearts and bands we are ready to live or dye in your Cauſe; and therefore whilſt I am able to ſtand, more Swords than two ſhall try it.</q> Earl <hi>Piercy,</hi> though grieved at this Hindrance, ſeeing all his Men reſolute, and of the ſame Opinion, crying out, <q rend="italic">They would not hazard their noble Earl in ſingle Combate, but fight with him, and for him, to the laſt Drop of their blood;</q> found him ſelf conſtrained to yield to their Importunities; and ſo both ſides immediately were ordered to make ready for the Battle.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>
+                  <hi>Chap. V.</hi> How the mortal Battle began by the <hi>Engliſh Archers,</hi> who ſlew ſixty Scots at the firſt Flight of Arrows, and continued with ſuch Fury, that all the place was paved with dead, and dying Men; how the two Earls after a cruel Fight were ſlain, with the manner of it, &amp;c.</head>
+               <p>THe Engliſh Archers on the left Diviſion immediately ſent a Flight of fatal Arrows, which laid threeſcore of the Scots dead on the place; and the right Diviſion letting fly on the Flank of their Battalion, gauled them moſt miſerably, Earl <hi>Dowglas</hi> ſee<g ref="char:EOLhyphen"/>ing his Men diſcouraged to be killed ſo at diſtance, and that ano<g ref="char:EOLhyphen"/>ther Vollue might put them into Diſorder, commanded them ſpeedily to advance, and come to a cloſe Fight; by which means he thought to tender the Engliſh Bows, which was their chiefeſt
+<pb facs="tcp:38273:6"/>Weapons, uſeleſs; but in this he was deceived, for they kept ſuch excellent Order, that whenever the Front opened, the Ar<g ref="char:EOLhyphen"/>chers behind feather'd the Scots with Showers of deadly Ar<g ref="char:EOLhyphen"/>rows, whilſt the others kept them in play with their Swords; however, both being furious, they fought deſperately, inſo<g ref="char:EOLhyphen"/>much that the Ground was cover'd with dead, and dying Men, Arrows, ſhivers of Spears, broken Swords, and ſtreams of Blood; nothing was heard but confus'd Noiſes, Groans and Cries.</p>
+               <p>And now Earl <hi>Piercy</hi> being backed by divers Knights and Eſquires, Men at Arms, <hi>&amp;c.</hi> out of the Tops of the Enemy's Spears pointed againſt him, and like a Tempeſt broke in amongſt them with ſuch Fury and Slaughter, that he laid heaps of dead on either hand, and before him, ſo that his way was in a manner ſtoped with the Carcaſſes of the Slain, which raiſed a great Cry about him, inſomuch that Earl <hi>Dowglas,</hi> who was fighting on the other ſide, and had ſignaliz'd his Valour very much, was forced to give over, and come to the ſuccour of his broken For<g ref="char:EOLhyphen"/>ces; where theſe two Earls met like two enraged Lyons; no Armour was Proof againſt their Well-temper'd Swords, ſo that by the mighty ſtroaks they gave each other, it fell Piece-meal to the Ground; the Place they fought on was ſprinkled with noble Blood; and Earl <hi>Dowglas</hi> hereupon beginning to faint, yet aſhamed to yield, thus beſpake Earl <hi>Piercy:</hi>
+               </p>
+               <p>Noble Lord, You ſee your Blood flows faſt, and Death you cannot 'ſcape, if you contend with me much longer; I there<g ref="char:EOLhyphen"/>fore in pity to your Life, would have you yield yourſelf my Pri<g ref="char:EOLhyphen"/>ſoner; you ſhall be nobly uſed, and I'll prefer you with <hi>James</hi> our King, by making him ſenſible of your Worth and Cou<g ref="char:EOLhyphen"/>rage.</p>
+               <p>To this Earl <hi>Piercy</hi> replyed with a ſorrowful ſmile, As for my Life, take you no care, but ſurely guard your own; my Ho<g ref="char:EOLhyphen"/>nour I prefer before all things on Earth, and it never ſhall be ſaid, that <hi>Piercy</hi> yielded to a Scot. Whilſt they paus'd a little on theſe Words, and were again renewing the Fight, and Ar<g ref="char:EOLhyphen"/>row coming from among the Ranks of the Archers, ended that
+<pb facs="tcp:38273:6"/>Combat, by piercing Earl <hi>Dowglas</hi> to the Heart; who thereup<g ref="char:EOLhyphen"/>on falling to the Ground, his laſt Words, with a faint and dying Voice, were, <q rend="italic">Fight on my merry Men, revenge my Death, for I am ſlain, and <hi>Piercy</hi> lives to ſee me fall.</q>
+               </p>
+               <p>The noble Earl <hi>Piercy</hi> on the fall of brave <hi>Dowglas</hi> by ſuch an unwiſhed, or unexpected way, was much troubled for his Death, and to be deprived of the Honour of the Conqueſt he expected, laboured to raiſe him from the Ground, that he might ſend him out of the Battle, to have his Wounds dreſſed, if peradventure his Life might be in him; but finding him dead, he much be<g ref="char:EOLhyphen"/>moaned him, commending, like a generous Enemy, his Va<g ref="char:EOLhyphen"/>lour, and wiſhing he had, or could have done any thing to ſave him: But whilſt he was lamenting his Death, his own was near at hand; for the noiſe being carried through the Battle, that Earl <hi>Dowglas</hi> was ſlain; Sir <hi>Hugh Montgomery,</hi> who was <hi>Dowglas</hi>'s chief Favourite, putting his Spears in his Wreſt, and vowing Revenge, broke through the Rank, and whilſt the no<g ref="char:EOLhyphen"/>ble <hi>Piercy</hi>'s Thoughts were imploy'd on the dead Earl, he came behind him at Unawares and run him quite through the Body, ſo that he fell on Earl <hi>Dowglas;</hi> and only having time to encou<g ref="char:EOLhyphen"/>rage his Men, gave up the Ghoſt: But was not long unreveng'd, for an Engliſh Archer perceiving what had happened, drew an Arrow up to the head, which proved a ſure Meſſenger of Death, for it paſſed quite through <hi>Montgomery</hi>'s Body, ſo that the Fea<g ref="char:EOLhyphen"/>thers of the Arrow were wet in his Heart's Blood.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>
+                  <hi>Chap. VI.</hi> How the Battle, after the Death of the noble Chiefs, continued till but fifty five of the Scots, and fifty three of the Eng<g ref="char:EOLhyphen"/>liſh, were left alive, it holding a whole Summer's Day; of the Lamentation the Widows made over their dead Husbands, and the Revenge for the Earl's death, <hi>&amp;c.</hi>
+               </head>
+               <p>THough the Chiefs were ſlain, the Fight continued with great Fury, being ſpurred on with Courage and Deſire of Revenge, either ſide ſcorning to yield, though the Sun declined, and Night was haſting on a pace, it having held almoſt a whole
+<pb facs="tcp:38273:7"/>Summer's Day, till in the end thoſe few that were left alive, were ſo wounded and wearied, that they were conſtrained to part by Conſent: Eighteen hundred forty three of the Scots be<g ref="char:EOLhyphen"/>ing killed, ſo that of the two Thoufand there remained but fif<g ref="char:EOLhyphen"/>ty five; and of the Engliſh but fifty three, ſo fatal and deſpe<g ref="char:EOLhyphen"/>rate were theſe two ſmall Armies, contending for the Honour of cither Nation, more than for any thing elſe. <hi>Witherington</hi> e<g ref="char:EOLhyphen"/>ſpecially in this Action behaved himſelf as he had promiſed, for a Scot coming behind him with a mighty broad Sword, and cutting his Legs off, he raiſed himſelf on his bleeding Stumps with his Hands, and pierced his Enemy, who had ſo wounded him to the Heart, and ſo continued fighting, till through loſs of Blood, he fainted and dyed.</p>
+               <p>Beſides theſe of Note dyed in this Battle, Sir <hi>John Ogerton,</hi> Sir. <hi>Robert,</hi> Sir <hi>John,</hi> and Sir <hi>James Ratcliff,</hi> three valiant Brothers, and of a noble Family; alſo Sir <hi>George,</hi> and Sir <hi>James Tyrell,</hi> Father and Son, and Sir <hi>Ralph Raby,</hi> all gallant Engliſh Men.</p>
+               <p>And of the Scots of Note beſides Sir <hi>Hugh Montgomery,</hi> Sir <hi>Charles Currel,</hi> Sir <hi>Charles Murrel,</hi> and his Siſter's Son alſo, Sir <hi>David Lamb,</hi> a Man Valiant, and of great Council, much be<g ref="char:EOLhyphen"/>loved by the whole Nation; but nothing in this mortal Battle could reſcue him from Death; there fell likewiſe the Lord <hi>Mark<g ref="char:EOLhyphen"/>well,</hi> Lord of a Clan in the High-lands of that Name. Nor was this Few'd ſcarce ended when the Bell rung to Evening-ſong, the woful News of this bloody Day being known to the Widows of theſe Perſons that were ſlain, they came running with doleful Cries, torn Hair, and Garments, each ſearching among the Dead for her Husband's Corps; and no ſooner finding it, but fal<g ref="char:EOLhyphen"/>ling on it, kiſſed the cold Lips a hundred times, and bathed the pale Face in Tears, with ſuch piteous Cries and Groans, as would have pierc'd any Heart to have heard: But the Extremi<g ref="char:EOLhyphen"/>ty of Sorrow being over, the dead Bodies were removed, and decently buryed according to their Degree; the whole King<g ref="char:EOLhyphen"/>dom of <hi>Scotland</hi> Mourning for the loſs of Earl <hi>Dowglas,</hi> and ſo many valiant Men with him on ſo trivial a Quarrel; the King af<g ref="char:EOLhyphen"/>firming, that he had not ſuch another brave Man in his Kingdom,
+<pb facs="tcp:38273:7"/>This ſad News coming to King <hi>Henry</hi>'s Court, he was ſorry for it, declaring the Earl <hi>Piercy</hi> to be a very brave Man, yet doubt<g ref="char:EOLhyphen"/>ed not but he had within his Realm five hundred as brave and valiant Men as he; yet ſent for his Body, and cauſed it honoura<g ref="char:EOLhyphen"/>bly to be interred amongſt his Anceſtors; vowing however to re<g ref="char:EOLhyphen"/>venge his Death on the Scottiſh Nation; and ſo concluding his Wars with <hi>France,</hi> he entered the Country with a great Army, waſting it with Fire and Sword, which War continued for many Years, till the Queen of Scots dying, the King of Scots mar<g ref="char:EOLhyphen"/>ryed King <hi>Henry</hi>'s Daughter, which put an end to it during his Reign.</p>
+            </div>
+         </div>
+         <div type="song">
+            <pb facs="tcp:38273:8"/>
+            <head>An <g ref="char:V">Ʋ</g>nhappy, but Memorable SONG of the hunting on <hi>Chevy-Chaſe,</hi> between Earl <hi>Piercy</hi> of <hi>England,</hi> and Earl <hi>Dowglas</hi> of <hi>Scotland.</hi>
+            </head>
+            <opener>To the Tune of, <hi>Flying Fame, &amp;c.</hi>
+            </opener>
+            <p>
+               <figure>
+                  <figDesc>woodcut of dining and hunting scenes</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>GOd proſper long our noble King,</l>
+               <l>our lives and ſafties all,</l>
+               <l>A woful hunting once there did,</l>
+               <l>in <hi>Chevy-Chaſe</hi> befal:</l>
+               <l>To drive the Dear with hound and horn,</l>
+               <l>Earl <hi>Piercy</hi> took his way,</l>
+               <l>The Child may rue that was unborn,</l>
+               <l>the hunting of that Day.</l>
+               <l>The ſtout Earl of <hi>Northumberland,</hi>
+               </l>
+               <l>a Vow to God did make,</l>
+               <l>His pleaſure in the Scottiſh Woods,</l>
+               <l>three Summer's Days to take,</l>
+               <l>The chiefeſt Harts in <hi>Chevy-Chaſe,</hi>
+               </l>
+               <l>to kill nad bear away;</l>
+               <pb facs="tcp:38273:8"/>
+               <l>The tydings to Earl <hi>Dowglas</hi> came,</l>
+               <l>in <hi>Scotland</hi> where he lay:</l>
+               <l>Who ſent Earl <hi>Piercy</hi> preſent word,</l>
+               <l>he would prevent his Sport;</l>
+               <l>The Engliſh Earl not fearing this,</l>
+               <l>did to the Woods reſort;</l>
+               <l>With fifteen hundred Bowmen bold,</l>
+               <l>all choſen Men of might,</l>
+               <l>Who knew full well in time of need,</l>
+               <l>to aim their Shafts aright.</l>
+               <l>The galnant Grey hounds ſwiftly ran,</l>
+               <l>to chaſe the Fallow deer;</l>
+               <l>On <hi>Monday</hi> they began to hunt,</l>
+               <l>when Day-light did appear;</l>
+            </lg>
+            <p>
+               <figure>
+                  <figDesc>woodcut of buck</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>And long before high Noon they had</l>
+               <l>a hundred fat Bucks ſlain,</l>
+               <l>Then having din'd, the Drivers went</l>
+               <l>to rouze them up again.</l>
+               <pb facs="tcp:38273:9"/>
+               <l>The Bow-men muſter'd on the Hills,</l>
+               <l>well able to endure,</l>
+               <l>Their Backſides all with ſpecial Care,</l>
+               <l>that Day were guarded ſure.</l>
+               <l>The hounds ran ſwiftly thro' the Woods,</l>
+               <l>the nimble Deer to take.</l>
+               <l>And with their Cries the Hills and Dales,</l>
+               <l>an Eccho ſhrill did make.</l>
+               <l>Lord <hi>Piercy</hi> to the Quarry went,</l>
+               <l>to view the tender Deer,</l>
+               <l>Quoth he, Earl <hi>Dowglas,</hi> promiſed</l>
+               <l>this Day to meet me here:</l>
+               <l>If that I thought he would not come,</l>
+               <l>no longer would I ſtay.</l>
+               <l>With that a brave young Gentleman,</l>
+               <l>thus to the Earl did ſay,</l>
+               <l>Lo yonder doth Earl <hi>Dowglas</hi> come,</l>
+               <l>his Men in Armour bright,</l>
+               <l>Full twenty hundred Scottiſh Spears,</l>
+               <l>all marching in our ſight,</l>
+               <l>All Men of pleaſant <hi>Tividale,</hi>
+               </l>
+               <l>faſt by the River <hi>Tweed.</hi>
+               </l>
+               <l>Then ceaſe your Sport Earl <hi>Piercy</hi> ſaid,</l>
+               <l>and take your Bows with ſpeed:</l>
+               <l>And now with me, my Country Men,</l>
+               <l>your Courage forth advance,</l>
+               <l>For never was there Champion yet,</l>
+               <l>in <hi>Scotland</hi> or in <hi>France,</hi>
+               </l>
+               <l>That ever did on Horſe-back come,</l>
+               <l>but ſince my hap it were,</l>
+               <l>I durſt encounter Man for Man,</l>
+               <l>with him to break a Spear.</l>
+               <l>Earl <hi>Douglas</hi> on a Milk-white Steed,</l>
+               <l>moſt like a Baron bold,</l>
+               <l>Rode foremoſt of the Company,</l>
+               <l>whoſe Armour ſhone like Gold:</l>
+               <pb facs="tcp:38273:9"/>
+               <l>Shew me, he ſaid, whoſe Men you be,</l>
+               <l>that hunt ſo boldly here,</l>
+               <l>That without my Conſent do chaſe,</l>
+               <l>and kill my Fallow-deer?</l>
+               <l>The Man that firſt did anſwer make,</l>
+               <l>was noble <hi>Piercy</hi> he,</l>
+               <l>Who ſaid, We liſt not to declare,</l>
+               <l>nor ſhew whoſe Men we be;</l>
+               <l>Yet we will ſpend our deareſt Blood,</l>
+               <l>thy chiefeſt Harts to ſlay.</l>
+               <l>Then <hi>Dowglas</hi> ſwore a ſolemn Oath,</l>
+               <l>and thus in Rage did ſay,</l>
+               <l>E're thus I will Out-braved be,</l>
+               <l>one of us two ſhall dye;</l>
+               <l>I know thee well, and Earl thou art,</l>
+               <l>Lord <hi>Piercy</hi> ſo am I.</l>
+               <l>But truſt me <hi>Piercy,</hi> pity it were,</l>
+               <l>and great Offence to kill,</l>
+               <l>And of theſe our harmleſs Men.</l>
+               <l>for they have done no Ill.</l>
+               <l>Let thee and I the Battel try,</l>
+               <l>and ſot our Men aſide.</l>
+               <l>Acurſt be he, Lord <hi>Piercy</hi> ſaid,</l>
+               <l>by whom this is deny'd.</l>
+               <l>Then ſtept a gallant 'Squire forth,</l>
+               <l>
+                  <hi>Witherington</hi> was his Name,</l>
+               <l>Who ſaid, I would not have it told,</l>
+               <l>to <hi>Henry</hi> our King for ſhame.</l>
+               <l>That e're my Captain fought on Foot,</l>
+               <l>and I ſtood looking on,</l>
+               <l>You be two Earls, ſaid <hi>Whitherington,</hi>
+               </l>
+               <l>and I a 'Squire alone,</l>
+               <l>I'll do the beſt that do I may,</l>
+               <l>while I have Power to ſtand,</l>
+               <l>While I have Power to wield my Sword,</l>
+               <l>I'll fight with Heart and Hand,</l>
+               <pb facs="tcp:38273:10"/>
+               <l>Our Engliſh Archers bent their Bows,</l>
+               <l>their Hearts were good and true,</l>
+               <l>At the firſt flight of Arrows ſent,</l>
+               <l>full threeſcore Scots they flew.</l>
+               <l>To drive the Deer with Hound and Horn,</l>
+               <l>Earl <hi>Dowglas</hi> had the bent.</l>
+               <l>A Captain moved with mickle Pride,</l>
+               <l>the Spears to ſhivers ſent:</l>
+               <l>They clos'd full faſt on every ſide,</l>
+               <l>no ſlackneſs there was found,</l>
+               <l>And many a gallant Gentleman</l>
+               <l>lay gaſping on the Ground.</l>
+               <l>O Chriſt! It was great Grief to ſee,</l>
+               <l>and likewiſe for to hear,</l>
+               <l>The Cries of Men lying in their Gore,</l>
+               <l>and ſcattered here and there.</l>
+               <l>At laſt theſe two ſtout Earls did meet,</l>
+               <l>like Captains of great might,</l>
+            </lg>
+            <p>
+               <figure>
+                  <figDesc>woodcut of two men dueling</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>Like Lyons mov'd they laid on load,</l>
+               <l>and made a cruel Fight;</l>
+               <pb facs="tcp:38273:10"/>
+               <l>They fought until they both did ſweat,</l>
+               <l>with Swords of tempered Steel,</l>
+               <l>Until the Blood like drops of Rain,</l>
+               <l>they trickling down did feel:</l>
+               <l>Yield thee, Lord <hi>Piercy, Dowglas</hi> ſaid,</l>
+               <l>in Faith I will thee bring,</l>
+               <l>Where thou ſhalt high advanced be,</l>
+               <l>by <hi>James</hi> our Scottiſh King;</l>
+               <l>Thy Ranſom I will freely give,</l>
+               <l>and thus Report of thee,</l>
+               <l>Thou art the moſt Couragious Knight,</l>
+               <l>that ever I did ſee.</l>
+               <l>To <hi>Dowglas,</hi> quoth Earl <hi>Piercy</hi> then,</l>
+               <l>Thy Proffer I do ſcorn,</l>
+               <l>I will not yield to any Scot,</l>
+               <l>that ever yet was born.</l>
+               <l>With that there came an Arrow keen,</l>
+               <l>out of an Engliſh Bow,</l>
+               <l>Which ſtruck Earl <hi>Dowglas</hi> to the Heart,</l>
+               <l>a deep and deadly blow,</l>
+               <l>Who never ſpoke more Words than theſe,</l>
+               <l>Fight on, my merry Men all,</l>
+               <l>For why, my Life is at an end,</l>
+               <l>Lord <hi>Piercy</hi> ſees my fall.</l>
+               <l>Then leaving Life, Earl <hi>Piercy</hi> took</l>
+               <l>the dead Man by the hand,</l>
+               <l>And ſaid, Earl <hi>Dowglas,</hi> for thy Life,</l>
+               <l>would I had loſt my Land.</l>
+               <l>O Chriſt! my very Heart doth bleed,</l>
+               <l>with Sorrow for thy ſake;</l>
+               <l>But ſure a more renowned Knight,</l>
+               <l>miſchance did ever take.</l>
+               <l>A Knight amongſt the Scots there was,</l>
+               <l>which ſaw Earl <hi>Dowglas</hi> dye,</l>
+               <l>Who ſtraight in Wrath did vow Revenge</l>
+               <l>upon the Earl <hi>Piercy:</hi>
+               </l>
+               <pb facs="tcp:38273:11"/>
+               <l>Sir <hi>Hugh Montgomery</hi> was he call'd,</l>
+               <l>who with a ſpear moſt bright,</l>
+               <l>Well mounted on a gallant ſteed,</l>
+               <l>ran fiercely through the Fight,</l>
+               <l>And paſs'd the Engliſh Archers all,</l>
+               <l>without all dread or fear,</l>
+               <l>And through Earl <hi>Piercy</hi>'s body then,</l>
+               <l>he thruſt his hateful ſpear,</l>
+               <l>With ſuch a vehement force and might,</l>
+               <l>he did his body gore,</l>
+               <l>The ſpear went through the other ſide,</l>
+               <l>a large Cloath-yard and more.</l>
+               <l>So thus did both theſe Nobles dye,</l>
+               <l>whoſe courage none could ſtain,</l>
+               <l>An Engliſh Archer then perceiv'd,</l>
+               <l>the noble Earl was ſlain,</l>
+               <l>He had a bow bent in his hand,</l>
+               <l>made of a truſty Tree,</l>
+               <l>An Arrow of a Cloath-yard long,</l>
+               <l>unto the Head drew he,</l>
+               <l>Againſt Sir <hi>Hugh Montgomery,</hi>
+               </l>
+               <l>ſo right his ſhaft he ſet,</l>
+               <l>The Grey gooſe-wing that was thereon,</l>
+               <l>in his Heart's blood was wet.</l>
+               <l>This fight did laſt from brook of day,</l>
+               <l>tell ſetting of the Sun,</l>
+               <l>For when they rung the Evening bell,</l>
+               <l>the battle ſcarce was done:</l>
+               <l>With the Earl <hi>Piercy</hi> there was ſlain,</l>
+               <l>Sir <hi>John</hi> of <hi>Ogerton,</hi>
+               </l>
+               <l>Sir <hi>Robert Ratcliff,</hi> and Sir <hi>John,</hi>
+               </l>
+               <l>Sir <hi>James</hi> that bold Baron;</l>
+               <l>And with Sir <hi>George,</hi> and good Sir <hi>James,</hi>
+               </l>
+               <l>both Knights of good Account,</l>
+               <l>Good <hi>Sir Ralph Rabby</hi> there was ſlain,</l>
+               <l>whoſe Proweſs did ſurmount.</l>
+               <pb facs="tcp:38273:11"/>
+               <l>For <hi>Whitherington</hi> then muſt I wail,</l>
+               <l>as one in doleful Dumps,</l>
+               <l>For when his Legs were ſmitten off,</l>
+               <l>he fought upon his ſtumps.</l>
+               <l>And with Earl <hi>Dowglas</hi> there was ſlain,</l>
+               <l>
+                  <hi>Sir Hugh Montgomery,</hi>
+               </l>
+               <l>
+                  <hi>Sir Charles Currel,</hi> that from the Field,</l>
+               <l>one Foot he would not fly,</l>
+               <l>
+                  <hi>Sir Charles Murrel</hi> of <hi>Ratcliff</hi> too,</l>
+               <l>his fiſter's ſon was he,</l>
+               <l>
+                  <hi>Sir David Lamb</hi> ſo well eſteem's,</l>
+               <l>yet ſaved could not be,</l>
+               <l>And the Lord <hi>Markwell</hi> in likewiſe,</l>
+               <l>did with Earl <hi>Dowglas</hi> dye,</l>
+               <l>Of twenty hundred ſcottiſh ſpears,</l>
+               <l>ſcarce fifty five did fly.</l>
+               <l>Of fifteen hundred Engliſh Men,</l>
+               <l>went home but fifty three,</l>
+               <l>The reſt were ſlain in <hi>Chevy Chaſe,</hi>
+               </l>
+               <l>under the Green-wood Tree.</l>
+               <l>Next day did many Widows come,</l>
+               <l>their Husbands to bewail,</l>
+               <l>They waſh'd their Wounds in briniſh Tears,</l>
+               <l>but all would not prevail:</l>
+               <l>Their bodies bath'd in purple blood,</l>
+               <l>they bore with them away,</l>
+               <l>They kiſt them dead a thouſand times,</l>
+               <l>when they were clad in Clay.</l>
+               <l>This News was brought to <hi>Edenborough.</hi>
+               </l>
+               <l>where <hi>Scotland</hi>'s King did Reign,</l>
+               <l>That brave Earl <hi>Dowglas</hi> ſuddenly</l>
+               <l>was with an Arrow ſlain:</l>
+               <l>O heavy News, King <hi>James</hi> did ſay,</l>
+               <l>
+                  <hi>Scotland</hi> can Witneſs be,</l>
+               <l>I have not any Captain more,</l>
+               <l>of ſuch Account as he.</l>
+               <pb facs="tcp:38273:12"/>
+               <l>Like Tydings to King <hi>Henry</hi> came,</l>
+               <l>within as ſhort a ſpace,</l>
+               <l>That <hi>Piercy</hi> or <hi>Northmaberland,</hi>
+               </l>
+               <l>was ſlain in <hi>Chevy-Chaſe:</hi>
+               </l>
+               <l>Now God be with him, ſaid our King,</l>
+               <l>ſith 'twill no better be,</l>
+               <l>I truſt I have within my Realm,</l>
+               <l>five hundred as good as he;</l>
+               <l>Yet ſhall not ſcot nor <hi>Scotland</hi> ſay,</l>
+               <l>but I will Vengeance take,</l>
+               <l>And be revenged on them all,</l>
+               <l>for brave Lord <hi>Piercy</hi>'s ſake.</l>
+               <l>This Vow full well the King perform'd,</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ter one <hi>Humble-down,</hi>
+               </l>
+               <l>For one and fifty Knights were ſlain,</l>
+               <l>with Lords of great Renown:</l>
+               <l>And of the beſt of ſmall Account,</l>
+               <l>did many hundreds dye:</l>
+               <l>Thus ended the hunting on <hi>Chevy-Chaſe,</hi>
+               </l>
+               <l>made by the Earl <hi>Piercy.</hi>
+               </l>
+               <l>God ſave the King, and bleſs the Land,</l>
+               <l>in Plenty, Joy and Peace;</l>
+               <l>And grant henceforth that foul Debate,</l>
+               <l>'twixt Noblemen may ceaſe.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:38273:12"/>
+            <head>A Catalogue of ſeveral Delightful BOOKS, which are to be Sold by the Bookſellers of <hi>Pye-Corner</hi> and <hi>London-Bridge.</hi>
+            </head>
+            <head type="sub">There is Juſt Publiſhed</head>
+            <p>
+               <hi>AESop</hi>'s Fables, with his Life, Morals and Remarks; ſixted for the meaneſt Ca<g ref="char:EOLhyphen"/>pacities. Price Bound 1 <hi>s.</hi>
+            </p>
+            <p>The Wars of the Jews: In Two Books. With the moſt Deplorable Hiſtory of the Siege and Deſtruction of the City of <hi>Jeruſalem,</hi> and the Burning of the Temple there<g ref="char:EOLhyphen"/>in by the Romans, under the Command of <hi>Titus Veſpaſian,</hi> the Roman Emperor. Alſo an Account of the ſearful Preſunes, and ſtrange Apparltions that were ſeen in the Air, before the Ruin hereof. Enitorniz'd from the Works of <hi>Flavius Joſephus,</hi> Tranſlated into Engliſh by Sir <hi>Roger Le' Strange,</hi> Knight. In Tweives. Price Bound 1 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>The <g ref="char:V">Ʋ</g>nſortunate Lovers:</hi> or, The Hiſtory of <hi>Argalus</hi> and <hi>Parthenia:</hi> Containing their Amours, Misfortunes, happy, but ſhort Enjoyment of each other; with the manner of their Deaths. Price Bound 1 <hi>s.</hi>
+            </p>
+            <p>The moſt Pleaſant and Delightful Hiſtory of <hi>Reynard the Fox,</hi> and <hi>Reynardine</hi> his Son. In two Parts: With Moraſs to each Chapter, explaining what appears Doubtful or Allogo<g ref="char:EOLhyphen"/>rical: And every Chapter Illuſtrated with a curious Device or Picture. <hi>To which is added,</hi> The Hiſtory of <hi>Cawood the Rook:</hi> or, The Aſſembly of Birds: With the ſeveral Speeches they made to the <hi>Eagles</hi> in hopes to have the Government in his Abſence; and how the <hi>Rook</hi> was Baniſh'd; with the Reaſon why <hi>Crafty Fellows</hi> are called <hi>Rooks:</hi> To<g ref="char:EOLhyphen"/>gether with Morals and Expoſitions on every Chapter. Twelves. Price Bound 1 <hi>s.</hi>
+            </p>
+            <p>The famous and pleaſant Hiſtory of <hi>Pariſmus,</hi> the Valiant and Renowned Prince of <hi>Bohemia:</hi> In Three Parts. <hi>Part</hi> I. Containing his Triumphant Battles fought againſt the Perſians, his Love to the beautious <hi>Laurana,</hi> the great Dangers he paſſed in the <hi>Iſland</hi> of <hi>Rocks;</hi> and his ſtrange Adventures in the <hi>Deſolate Iſland</hi> &amp;c. <hi>Part</hi> II. Containing the Adventures, Travels, and noble Chivalry of <hi>Pariſmenos,</hi> he <hi>Knight of Fame,</hi> with his Love to the fair Princeſs <hi>Angelica,</hi> the Lady of the <hi>Goldon Tower,</hi> &amp;c. <hi>Part</hi> III. Con<g ref="char:EOLhyphen"/>taining the admirable Adventures and truly heroick Atchievements of <hi>Pariſmenidas,</hi> the Knight of the <hi>Golden Star,</hi> with his Love to the fair <hi>Aſtrea,</hi> Princeſs of <hi>Auſtracia,</hi> with other ſtrange Adventures. Price Bound 1 <hi>s.</hi>
+            </p>
+            <p>The Famous and Renowned Hiſtory of <hi>Guy,</hi> Earl of <hi>Warwick:</hi> Containing a full and true Account of his many Famous and Va<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iant Actions, Remarkable and Brave Ex<g ref="char:EOLhyphen"/>ploits, and Noble and Renowned Victories.</p>
+            <pb facs="tcp:38273:13"/>
+            <figure>
+               <figDesc>woodcut of two archers, a large tree in the background</figDesc>
+            </figure>
+         </div>
+      </back>
+   </text>
+</TEI>
